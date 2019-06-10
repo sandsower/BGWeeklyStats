@@ -1,0 +1,14 @@
+{
+  "name": "bgstatsweekly",
+  "version": "1.0.0",
+  "description": "Filters weekly stats from BGStats export",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vic Valenzuela",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
